@@ -5,6 +5,6 @@ gambling, chat sites, dating platforms, and cam websites. To use it with AdGuard
 Please note, social media sites are not included in this version of AdGuard’s blocklist. If you wish to restrict access to social media.
 you can configure these settings through the admin address (the IP address of your AdGuard Home)
 
-### ***Blocklist links***
+### **Blocklist links**
 
 [AdGuard](https://raw.githubusercontent.com/virtualvoyager367/Adult-Websites-Blocklist-AdGuard-/master/AdultWebsiteBlocklist.txt)
