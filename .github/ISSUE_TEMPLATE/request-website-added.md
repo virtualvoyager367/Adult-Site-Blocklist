@@ -9,7 +9,7 @@ assignees: ''
 
 ### **Requirements**
 - [x] Contains Inappropriate/Addictive Content
-- [x] - Website Does NOT have something that you would use for Communication such as Messaging, Phone calls, etc.
+- [x] Website Does NOT have something that you would use for Communication such as Messaging, Phone calls, etc.
 
 ### **Website(s)**
 
