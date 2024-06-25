@@ -1,5 +1,5 @@
 name: Website reccomendation
-description: reccommend a Website that should be added to the Blocklist
+description: Reccommend a Website that should be added to the Blocklist
 title: "[Website]: "
 labels: "Website"
 body:
@@ -13,7 +13,7 @@ body:
     required: true
 body:
 - type: textarea
-  id: Why-Should-website-be-blocked?
+  id: Why-Should-website-be-blocked
   attributes:
     label: Why Should this be Blocked?
     description: "Why Should this Website Be Blocked?"
