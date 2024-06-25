@@ -4,7 +4,7 @@ title: "[Website]: "
 labels: "Website"
 body:
 - type: input
-  id: Website input
+  id: Website-input
   attributes:
     label: Bu
     description: "What Website do you want Blocked?"
