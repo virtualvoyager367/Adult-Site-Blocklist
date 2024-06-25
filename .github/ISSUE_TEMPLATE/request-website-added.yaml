@@ -23,6 +23,7 @@ body:
   id: what-kind-of-website-is-it
   attributes:
     label: What Kind of Content does it contain?
+    with_other: true
     options:
       - Inapropriate/Addictive Content
       - Nudity
