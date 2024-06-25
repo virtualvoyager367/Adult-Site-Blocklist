@@ -19,3 +19,14 @@ body:
     render: bash
   validations:
     required: true
+- type: dropdown
+  id: what-kind-of-website-is-it
+  attributes:
+    label: What Kind of Content does it contain?
+    options:
+      - Inapropriate/Addictive Content
+      - Nudity
+      - Gambling
+      - Dating
+  validations:
+    required: true
