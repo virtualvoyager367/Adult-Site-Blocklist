@@ -11,6 +11,7 @@ body:
     placeholder: "Website URL"
   validations:
     required: true
+
 - type: textarea
   id: Why-Should-website-be-blocked
   attributes:
@@ -19,6 +20,7 @@ body:
     render: bash
   validations:
     required: true
+
 - type: dropdown
   id: what-kind-of-website-is-it
   attributes:
@@ -32,6 +34,7 @@ body:
     - Other...
   validations:
     required: true
+
 - type: input
   id: the_option_for_dropdown
   attributes:
