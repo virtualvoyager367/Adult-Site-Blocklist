@@ -4,10 +4,10 @@ title: "[Website]: "
 labels: "Website"
 body:
 - type: input
-  id: prevalence
+  id: Website input
   attributes:
-    label: Bug prevalence
-    description: "How often do you or others encounter this bug?"
-    placeholder: "Whenever I visit the user account page (1-2 times a week)"
+    label: Bu
+    description: "What Website do you want Blocked?"
+    placeholder: "Website URL"
   validations:
     required: true
