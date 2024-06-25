@@ -2,7 +2,6 @@ body:
 - type: textarea
   id: repro
   attributes:
-    	label: hi
 	description: "why do you want this website on here?"
 	value:
 	1.
