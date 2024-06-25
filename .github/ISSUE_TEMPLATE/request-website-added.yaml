@@ -6,13 +6,11 @@ body:
 - type: input
   id: Website-input
   attributes:
-    label: Website-to-Block
+    label: Website to Block
     description: "What Website do you want Blocked?"
     placeholder: "Website URL"
   validations:
     required: true
-
-
 body:
 - type: textarea
   id: Why-Should-website-be-blocked?
