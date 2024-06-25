@@ -11,11 +11,6 @@ body:
     placeholder: "Website URL"
   validations:
     required: true
-name: Why Website should be Blocked
-description: Why should it be blocked?
-title: "[Website]: "
-labels: "Website"
-body:
 - type: textarea
   id: Why-Should-website-be-blocked
   attributes:
