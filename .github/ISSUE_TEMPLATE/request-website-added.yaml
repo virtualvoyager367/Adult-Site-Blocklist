@@ -1,6 +1,6 @@
+name: Website reccomendation
 body:
 - type: input
-  name: Website reccomendation
   id: prevalence
   attributes:
     label: Bug prevalence
