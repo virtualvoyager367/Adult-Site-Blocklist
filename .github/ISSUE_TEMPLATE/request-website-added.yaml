@@ -31,17 +31,5 @@ body:
     - Cam Website
     - Nudity
     - Dating
-    - Other...
   validations:
     required: true
-
-- type: input
-  id: the_option_for_dropdown
-  attributes:
-    label: "Describe the other issue"
-    description: "Please describe the issue you are experiencing."
-    placeholder: "Describe your issue here"
-    render: false
-    depends_on:
-      - id: what-kind-of-website-is-it
-        value: "Other..."
