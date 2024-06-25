@@ -1,4 +1,4 @@
-body: balls
+body:
 - type: input
   id: prevalence
   attributes:
