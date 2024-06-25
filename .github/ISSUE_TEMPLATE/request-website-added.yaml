@@ -2,7 +2,7 @@ body:
 - type: textarea
   id: repro
   attributes:
-    label: Website
+    		label: Website
 		description: "why do you want this website on here?"
 		value:
 			1.
@@ -10,5 +10,5 @@ body:
 			3.
 	 		...
  	  render: bash
-  validations:
+  	validations:
  		required: true
