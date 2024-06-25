@@ -33,7 +33,7 @@ body:
   validations:
     required: true
 - type: input
-    id: other_option_for_dropdown
+    id: the_option_for_dropdown
     attributes:
       label: "Describe the other issue"
       description: "Please describe the issue you are experiencing."
