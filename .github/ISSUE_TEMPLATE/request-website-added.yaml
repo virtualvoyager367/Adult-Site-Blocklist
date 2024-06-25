@@ -6,7 +6,7 @@ body:
 - type: input
   id: Website-input
   attributes:
-    label: Bu
+    label: Website to Block
     description: "What Website do you want Blocked?"
     placeholder: "Website URL"
   validations:
