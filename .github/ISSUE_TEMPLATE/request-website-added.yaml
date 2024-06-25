@@ -24,10 +24,6 @@ body:
   attributes:
     label: What Kind of Content does it contain?
     options:
-      - Inapropriate/Addictive Content
-      - Nudity
-      - Gambling
-      - Dating
       - label: "Other"
         fields:
         - placeholder: "Operating System"
