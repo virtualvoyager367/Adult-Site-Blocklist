@@ -11,3 +11,17 @@ body:
     placeholder: "Website URL"
   validations:
     required: true
+body:
+- type: textarea
+  id: repro
+  attributes:
+    label: Reproduction steps
+    description: "Why Should this Website Be Blocked?"
+    value: |
+      1.
+      2.
+      3.
+      ...
+    render: bash
+  validations:
+    required: true
