@@ -1,6 +1,6 @@
-name: Website reccomendation
+name: Website Reccomendation
 description: Reccommend a Website that should be added to the Blocklist
-title: "[Website]: "
+title: "Website Reccomendation"
 labels: "Website"
 body:
 - type: input
