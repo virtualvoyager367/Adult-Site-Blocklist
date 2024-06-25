@@ -1,5 +1,7 @@
 name: Website reccomendation
-Description: Reccomend a Website that should be added to the Blocklist
+description: Reccomend a Website that should be added to the Blocklist
+title: "[Website]: "
+labels: "Website"
 body:
 - type: input
   id: prevalence
