@@ -6,9 +6,8 @@ body:
 	description: "why do you want this website on here?"
 	value:
 	1.
-	 2.
+	2.
 	3.
-	 ...
  	render: bash
   validations:
  	required: true
