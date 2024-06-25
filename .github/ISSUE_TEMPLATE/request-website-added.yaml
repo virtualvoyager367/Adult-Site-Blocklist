@@ -24,8 +24,21 @@ body:
   attributes:
     label: What Kind of Content does it contain?
     options:
-      - label: "Other"
-        fields:
-        - placeholder: "Operating System"
+    - Inappropriate/Addictive Content
+    - Gambling
+    - Cam Website
+    - Nudity
+    - Dating
+    - Other...
   validations:
     required: true
+- type: input
+    id: other_issue
+    attributes:
+      label: "Describe the other issue"
+      description: "Please describe the issue you are experiencing."
+      placeholder: "Describe your issue here"
+      render: false
+      depends_on:
+        - id: what-kind-of-website-is-it
+          value: "Other..."
