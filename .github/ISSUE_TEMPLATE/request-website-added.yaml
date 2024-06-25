@@ -1,13 +1,14 @@
 body:
 - type: textarea
-	id: repro
+  id: repro
   attributes:
-		label: Website
+    label: Website
 		description: "why do you want this website on here?"
 		value:
 			1.
 	 		2.
 			3.
 	 		...
- 	validations:
+ 	  render: bash
+  validations:
  		required: true
