@@ -8,3 +8,5 @@ you can configure these settings through the admin address (the IP address of yo
 ### **Blocklist links**
 
 [AdGuard](https://raw.githubusercontent.com/virtualvoyager367/Adult-Websites-Blocklist-AdGuard-/master/AdultWebsiteBlocklist.txt)
+
+[How to Set Up in Adguard](https://sites.google.com/view/adult-website-blocklist)
