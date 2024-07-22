@@ -1,6 +1,7 @@
 # Blocks most adult Websites
 
 !Explicit Content
+
 ||4chan.com^
 ||www.4chan.com^
 ||Pornhub.com^
@@ -29,8 +30,21 @@
 ||www.HentaiHaven.org^
 ||XHamster.com^
 ||www.XHamster.com^
+||Tube8.com^
+||www.Tube8.com^
+||TnaFlix.com^
+||www.TnaFlix.com^
+||Naked.com^
+||www.Naked.com^
+||MyDirtyHobby.com^
+||www.MyDirtyHobby.com^
+||Fling.com^
+||www.Fling.com^
+||xHamsterLive.com^
+||www.xHamsterLive.com^
 
 !Dating
+
 ||Match.com
 ||MeetMe.com
 ||OKCupid.com
@@ -53,8 +67,17 @@
 ||www.Cupid.com
 ||Matchmaker.com
 ||www.Matchmaker.com
+||SeniorMatch.com
+||www.SeniorMatch.com
+||Lavalife.com
+||www.Lavalife.com
+||EliteSingles.com
+||www.EliteSingles.com
+||OkCupid.com
+||www.OkCupid.com
 
 !Cam Websites
+
 ||Chaturbate.com^
 ||Bongacams.com^
 ||MyFreeCams.com^
@@ -75,8 +98,13 @@
 ||www.Cam4.com^
 ||Cams.com^
 ||www.Cams.com^
+||ImLive.com^
+||www.ImLive.com^
+||Naked.com^
+||www.Naked.com^
 
 !Chat Sites
+
 ||Omegle.com^
 ||TalkWithStranger.com^
 ||ChatRoulette.com^
@@ -97,8 +125,15 @@
 ||www.Chatterbate.com^
 ||AdultChat.com^
 ||www.AdultChat.com^
+||Bazoocam.org^
+||www.Bazoocam.org^
+||CooMeet.com^
+||www.CooMeet.com^
+||BongaCams.com^
+||www.BongaCams.com^
 
 !Gambling Sites
+
 ||BetOnline.ag^
 ||FreeSpin.com^
 ||Bovada.lv^
@@ -123,3 +158,11 @@
 ||www.SportsBetting.ag^
 ||Betfair.com^
 ||www.Betfair.com^
+||Betfred.com^
+||www.Betfred.com^
+||Ladbrokes.com^
+||www.Ladbrokes.com^
+||PartyPoker.com^
+||www.PartyPoker.com^
+||PokerStars.com^
+||www.PokerStars.com^
