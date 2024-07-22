@@ -1,8 +1,6 @@
-#Blocks most adult Websites
-
+# Blocks most adult Websites
 
 !Explicit Content
-
 ||4chan.com^
 ||www.4chan.com^
 ||Pornhub.com^
@@ -15,9 +13,18 @@
 ||www.8Tube.xxx^
 ||Redtube.com^
 ||www.Redtube.com^
+||Xvideos.com^
+||www.Xvideos.com^
+||YouPorn.com^
+||www.YouPorn.com^
+||XNXX.com^
+||www.XNXX.com^
+||HClips.com^
+||www.HClips.com^
+||SpankBang.com^
+||www.SpankBang.com^
 
 !Dating
-
 ||Match.com
 ||MeetMe.com
 ||OKCupid.com
@@ -28,9 +35,14 @@
 ||www.OKCupid.com
 ||www.Tinder.com
 ||www.bumble.com
+||PlentyOfFish.com
+||www.PlentyOfFish.com
+||Zoosk.com
+||www.Zoosk.com
+||eHarmony.com
+||www.eHarmony.com
 
 !Cam Websites
-
 ||Chaturbate.com^
 ||Bongacams.com^
 ||MyFreeCams.com^
@@ -41,9 +53,14 @@
 ||www.MyFreeCams.com^
 ||www.LiveJasmin.com^
 ||www.SlutRoulette.com^
+||Streamate.com^
+||www.Streamate.com^
+||LivePrivates.com^
+||www.LivePrivates.com^
+||CamSoda.com^
+||www.CamSoda.com^
 
 !Chat Sites
-
 ||Omegle.com^
 ||TalkWithStranger.com^
 ||ChatRoulette.com^
@@ -54,16 +71,29 @@
 ||www.ChatRoulette.com^
 ||www.Chat-Avenue.com^
 ||www.PalTalk.com^
+||TinyChat.com^
+||www.TinyChat.com^
+||Paltalk.com^
+||www.Paltalk.com^
+||Chathour.com^
+||www.Chathour.com^
 
 !Gambling Sites
-
 ||BetOnline.ag^
 ||FreeSpin.com^
 ||Bovada.lv^
 ||SlotoCash.im^
 ||RoyalAceCasino.com^
-||www.BetOnine.ag^
+||www.BetOnline.ag^
 ||www.FreeSpin.com^
 ||www.Bovada.lv^
 ||www.SlotoCash.im^
 ||www.RoyalAceCasino.com^
+||888Casino.com^
+||www.888Casino.com^
+||Bet365.com^
+||www.Bet365.com^
+||Unibet.com^
+||www.Unibet.com^
+||WilliamHill.com^
+||www.WilliamHill.com^
