@@ -1,6 +1,6 @@
 name: Language Report
 
-on: [push]
+on: [commit]
 
 jobs:
   build:
