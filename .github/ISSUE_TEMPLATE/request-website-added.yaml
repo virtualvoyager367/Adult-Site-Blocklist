@@ -29,7 +29,7 @@ body:
     - Inappropriate/Addictive Content
     - Gambling
     - Cam Website
-    - Nudity
+    - Chatsite
     - Dating
   validations:
     required: true
