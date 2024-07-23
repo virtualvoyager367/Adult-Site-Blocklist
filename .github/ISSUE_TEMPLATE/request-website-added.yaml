@@ -26,7 +26,7 @@ body:
   attributes:
     label: What Kind of Content does it contain?
     options:
-    - Inappropriate/Addictive Content
+    - Explicit Content
     - Gambling
     - Cam Website
     - Chatsite
