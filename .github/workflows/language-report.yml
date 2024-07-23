@@ -1,0 +1,15 @@
+name: Language Report
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Generate Language Report
+      run: |
+        git ls-files | while read f; do
+          git blame -w -M -C -C --line-porcelain "$f" | grep -I '^author '; 
+        done | sort -f | uniq -ic | sort -n --reverse
