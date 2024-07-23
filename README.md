@@ -2,8 +2,8 @@ This blocklist is made to automatically block access to most inappropriate websi
 
 gambling, chat sites, dating platforms, and cam websites. To use it with AdGuard, simply add it to the Blocklist section in your AdGuard settings.
 
-Please note, social media sites are not included in this version of AdGuard’s blocklist. If you wish to restrict access to social media.
-you can configure these settings through the admin address (the IP address of your AdGuard Home)
+Please note, social media sites are not included in this version of This Blocklist. If you Wish to Restrict Access to Social Media.
+you can configure these settings through the Adguard Interface IP you setup
 
 ### **Blocklist link**
 
