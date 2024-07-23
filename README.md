@@ -12,7 +12,3 @@ you can configure these settings through the Adguard Interface IP you setup
 ### **Setup Link**
 
 [How to Set Up in Adguard](https://sites.google.com/view/adult-website-blocklist)
-
-### **Luanguage**
-
-[Language Stats](https://img.shields.io/github/languages/top/virtualvoyager367/Adult-Site-Blocklist)
