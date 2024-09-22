@@ -7,7 +7,7 @@ you can configure these settings through the Adguard Interface IP you setup
 
 ### **Blocklist link**
 
-[AdGuard](https://raw.githubusercontent.com/virtualvoyager367/Adult-Websites-Blocklist-AdGuard-/master/AdultWebsiteBlocklist.txt)
+[Put into AdGuard after reading instructions below](https://raw.githubusercontent.com/virtualvoyager367/Adult-Websites-Blocklist-AdGuard-/master/AdultWebsiteBlocklist.txt)
 
 ### **Setup Link**
 
