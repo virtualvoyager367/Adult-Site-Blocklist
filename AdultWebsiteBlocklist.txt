@@ -166,3 +166,24 @@
 ||www.PartyPoker.com^
 ||PokerStars.com^
 ||www.PokerStars.com^
+
+!Malware/Infected Sites
+
+||adsports.in^
+||www.adsports.in^
+||alushtadom.com^
+||www.alushtadom.com^
+||avtoresurs.net^
+||www.avtoresurs.net^
+||pamelasparrowchilds.com^
+||www.pamelasparrowchilds.com^
+||stimmwissenschaften.de^
+||www.stimmwissenschaften.de^
+||truepublish.de^
+||www.truepublish.de^
+||eastsideautosalvage.com^
+||www.eastsideautosalvage.com^
+||gtcartographic.co.uk^
+||www.gtcartographic.co.uk^
+||logopaedie-tisch.homepage.t-online.de^
+||www.logopaedie-tisch.homepage.t-online.de^
