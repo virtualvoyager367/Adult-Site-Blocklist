@@ -31,5 +31,6 @@ body:
     - Cam Website
     - Chatsite
     - Dating
+    - Malware/Infected Website
   validations:
     required: true
